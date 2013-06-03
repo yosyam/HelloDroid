@@ -8,6 +8,6 @@
     <string name="hello_world" >Hello world!
     </string><string name="hello_droid">Hello, I\'m a droid.</string>
     <string name="description_droid_image">droid_image</string>
-    <string name="warning">Warning! Don\'t touch the droid....</string>
+    <string name="warning">Warning! Don\'t touch the droid...</string>
 
 </resources>
